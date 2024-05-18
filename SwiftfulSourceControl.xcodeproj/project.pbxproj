@@ -37,7 +37,6 @@
 		4EF3FD3F2BF8CBA300B9C17F = {
 			isa = PBXGroup;
 			children = (
-				4EF3FD592BF8D9D200B9C17F /* HomeView.swift */,
 				4EF3FD4A2BF8CBA300B9C17F /* SwiftfulSourceControl */,
 				4EF3FD492BF8CBA300B9C17F /* Products */,
 			);
@@ -56,6 +55,7 @@
 			children = (
 				4EF3FD4B2BF8CBA300B9C17F /* SwiftfulSourceControlApp.swift */,
 				4EF3FD4D2BF8CBA300B9C17F /* ContentView.swift */,
+				4EF3FD592BF8D9D200B9C17F /* HomeView.swift */,
 				4EF3FD4F2BF8CBA300B9C17F /* Assets.xcassets */,
 				4EF3FD512BF8CBA300B9C17F /* Preview Content */,
 			);
