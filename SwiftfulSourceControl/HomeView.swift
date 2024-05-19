@@ -17,9 +17,6 @@ struct HomeView: View {
             Text("Screen 1")
             
         }
-        .onAppear(perform: {
-            // send analytics
-        })
     }
 }
 
