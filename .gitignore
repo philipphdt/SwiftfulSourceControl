@@ -1,0 +1,106 @@
+# Xcode
+#
+.DS_Store
+*/.DS_Store
+build/
+DerivedData/
+.idea/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+
+# Swift Package Manager
+#
+.build/
+# Add the following line if you use Xcode 11.4+ to generate docs:
+# .swiftpm/xcode/xcshareddata/WorkspaceSettings.xcsettings
+
+# CocoaPods
+#
+# Uncomment the next line to ignore the Pods directory
+# Pods/
+# Add this line if you use cocoapods plugins for Travis
+# .plugins
+# Add this line if you use cocoapods-keys
+# .env
+# Uncomment the next line to avoid checking in source code from the xcworkspace
+# *.xcworkspace
+
+# Carthage
+#
+Carthage/Build/
+
+# Accio dependency management
+Dependencies/
+.accio/
+
+# Fastlane
+#
+# It is recommended to not store the screenshots in the git repo.
+# Instead, use fastlane to re-generate the screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Code Injection by AppCode
+#
+.idea/
+
+# SwiftLint
+#
+.swiftlint.yml
+
+# AppCode
+#
+*.iml
+.idea/
+out/
+
+# Bundle artifacts
+#
+.bundle/
+
+# Xcode 13 package index
+#
+.xcworkspace/xcshareddata/swiftpm/Package.resolved
+
+# Xcode 14
+#
+.xcresult/
+
+# Archives
+#
+*.xcarchive
+*.dSYM
+
+# iOS
+#
+Pods/
+
+# macOS
+#
+*.xcuserstate
+
+# Xcode project file
+#
+project.xcworkspace/
+
+# Generated files
+#
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
