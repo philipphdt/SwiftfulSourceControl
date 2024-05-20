@@ -1,0 +1,5 @@
+# This is a basic example of a CODEOWNERS file.
+# Lines starting with '#' are comments and will be ignored.
+
+# Set 'philipphdt' as the code owner for all files in the repository
+* @philipphdt
